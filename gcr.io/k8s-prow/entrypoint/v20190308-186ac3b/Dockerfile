@@ -1,0 +1,2 @@
+FROM gcr.io/k8s-prow/entrypoint@sha256:7c7cd8906ce4982ffee326218e9fc75da2d4896d53cabc9833b9cc8d2d6b2b8f
+MAINTAINER jiubian
