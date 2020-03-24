@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.9.2@sha256:10cc6e64fbb28ad87c1a95d7300caa4545fba7903996128198077cd65ca45f0e
+MAINTAINER jiubian
