@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.11.0-rc2@sha256:7e9486f866958a505e6a7d4f9ab6587c6788a5c93b328d36de4e046c36fd6306
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.10.2@sha256:49f2f090b3205afbd8967683e83c42632fbd2e45f2d9dbf593a54d1485f2b66a
 MAINTAINER jiubian
